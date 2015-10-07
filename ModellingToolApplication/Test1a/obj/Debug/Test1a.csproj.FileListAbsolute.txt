@@ -1,0 +1,5 @@
+D:\Papers Thesis\C#\Test1a\Test1a\bin\Debug\Test1a.exe.config
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.csprojResolveAssemblyReference.cache
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.Properties.Resources.resources
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.csproj.GenerateResource.Cache
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.Form1.resources

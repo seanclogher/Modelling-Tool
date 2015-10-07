@@ -1,0 +1,10 @@
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.exe.config
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.exe
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.pdb
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.frmMIDIParent.resources
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.Properties.Resources.resources
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\frmLoadData.csproj.GenerateResource.Cache
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.exe
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.pdb
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\frmLoadData.csprojResolveAssemblyReference.cache
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.frmLoadData.resources

@@ -1,0 +1,22 @@
+D:\Papers Thesis\C#\Test1a\Test1a\bin\Debug\Test1a.exe.config
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.exe
+D:\Papers Thesis\C#\Test1a\Test1a\bin\Debug\Test1a.exe
+D:\Papers Thesis\C#\Test1a\Test1a\bin\Debug\Test1a.pdb
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\frmModellingTool.csprojResolveAssemblyReference.cache
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\ModellingTool.frmMIDIParent.resources
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\ModellingTool.frmModellingTool.resources
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\ModellingTool.Properties.Resources.resources
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\frmModellingTool.csproj.GenerateResource.Cache
+D:\Papers Thesis\C#\Test1a\Test1a\obj\Debug\Test1a.pdb
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\Debug\Test1a.exe.config
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\Test1a.exe
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\Test1a.pdb
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\frmModellingTool.csprojResolveAssemblyReference.cache
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\ModellingTool.frmMIDIParent.resources
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\ModellingTool.frmModellingTool.resources
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\ModellingTool.Properties.Resources.resources
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\Debug\frmModellingTool.csproj.GenerateResource.Cache
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\Debug\Test1a.exe
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\Debug\Test1a.pdb
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\Debug\MathNet.Numerics.dll
+E:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\Debug\MathNet.Numerics.xml

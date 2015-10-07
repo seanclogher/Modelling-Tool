@@ -1,0 +1,37 @@
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\ModellingTool.frmMIDIParent.resources
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\ModellingTool.frmModellingTool.resources
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\ModellingTool.Properties.Resources.resources
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\frmModellingTool.csproj.GenerateResource.Cache
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.exe
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\Test1a.pdb
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.exe.config
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.exe
+F:\Papers Thesis\C#\Test1a\Test1a\bin\x64\Debug\Test1a.pdb
+F:\Papers Thesis\C#\Test1a\Test1a\obj\x64\Debug\frmModellingTool.csprojResolveAssemblyReference.cache
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\x64\Debug\Test1a.exe.config
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\x64\Debug\Test1a.exe
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\x64\Debug\Test1a.pdb
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\frmModellingTool.csprojResolveAssemblyReference.cache
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\ModellingTool.frmMIDIParent.resources
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\ModellingTool.frmModellingTool.resources
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\ModellingTool.Properties.Resources.resources
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\frmModellingTool.csproj.GenerateResource.Cache
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\Test1a.exe
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\obj\x64\Debug\Test1a.pdb
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\x64\Debug\MathNet.Numerics.dll
+F:\Papers Thesis\Update to date Code and Paper\Test1a\Test1a\bin\x64\Debug\MathNet.Numerics.xml
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\bin\x64\Debug\ModellingTool.exe.config
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\bin\x64\Debug\ModellingTool.exe
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\bin\x64\Debug\ModellingTool.pdb
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\bin\x64\Debug\MathNet.Numerics.dll
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\bin\x64\Debug\MathNet.Numerics.xml
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\frmModellingTool.csprojResolveAssemblyReference.cache
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.frmMIDIParent.resources
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.frmModellingTool.resources
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.Properties.Resources.resources
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\frmModellingTool.csproj.GenerateResource.Cache
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.exe
+F:\Papers Thesis\Update to date Code and Paper\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.pdb
+C:\Users\Sean\Documents\GitHub\ModellingTool\Modelling-Tool\ModellingTool\Test1a\bin\x64\Debug\ModellingTool.exe.config
+C:\Users\Sean\Documents\GitHub\ModellingTool\Modelling-Tool\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.exe
+C:\Users\Sean\Documents\GitHub\ModellingTool\Modelling-Tool\ModellingTool\Test1a\obj\x64\Debug\ModellingTool.pdb
